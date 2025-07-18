@@ -1,21 +1,23 @@
-🌤️ Weather App
-This is a simple weather application built with React and Vite that allows users to search for the current weather conditions in any city. The app fetches data from the OpenWeatherMap API and displays it in a clean, card-based interface using Material-UI.
+# 🌤️ Weather App
 
-🚀 Features
-🔍 City Search: Users can search for weather information by city name.
+A simple and responsive weather application built with **React** and **Vite**. It allows users to search for the current weather conditions of any city using the **OpenWeatherMap API**. The app uses **Material-UI** for a clean and modern interface.
 
-🌡️ Dynamic Weather Display: Shows temperature, humidity, and a brief weather description.
+---
 
-📱 Responsive UI: Built with Material-UI components and designed to work on all screen sizes.
+## 🚀 Features
 
-🎨 Visual Feedback: Displays different images/icons based on weather — hot, cold, or rainy.
+- 🔍 **City Search** – Enter any city name to get real-time weather data.
+- 🌡️ **Live Weather Info** – Displays temperature, humidity, "feels like" temperature, and weather description.
+- 🎨 **Visual Feedback** – Shows relevant images/icons based on whether it's hot, cold, or rainy.
+- 📱 **Responsive UI** – Built with Material-UI for a seamless experience across devices.
 
-🛠️ Technologies Used
-⚛️ React
+---
 
-⚡ Vite
+## 🛠️ Tech Stack
 
-🎨 Material-UI (MUI)
+- **React** – Frontend library
+- **Vite** – Build tool for fast development
+- **Material-UI** – UI components for styling
+- **OpenWeatherMap API** – For fetching live weather data
 
-🌐 OpenWeatherMap API
-
+---
